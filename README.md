@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CALCULATOR WRITTEN IN C
 *********************************
 calculator can
@@ -13,3 +14,7 @@ feel free to fork and clone all you want
 PLEASE CREDIT ME IF YOU MAKE CHANGES TO CODE OR MODIFY ANYTHING!
 @cerberusiscute on GitHub
 :)
+=======
+CalcInC
+=======
+>>>>>>> 8224617250aa9e06caf82cd2b0ea50fa8789280b
